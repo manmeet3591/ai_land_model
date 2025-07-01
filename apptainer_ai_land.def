@@ -1,0 +1,11 @@
+Bootstrap: docker
+From: nvcr.io/nvidia/pytorch:24.05-py3
+%files
+    earth2grid-2024.8.1/ /opt/earth2grid/
+%post
+    echo "Updating pip..."
+    python3 -m pip install --upgrade pip
+    echo "Installing Python packages..."
+    pip install xarray[complete] torch-harmonics tensorly tensorly-torch wandb torchvision timm jupyter
+    pip install --no-build-isolation https://github.com/NVlabs/earth2grid/archive/main.tar.gz
+
