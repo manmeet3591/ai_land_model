@@ -6,6 +6,6 @@ From: nvcr.io/nvidia/pytorch:24.05-py3
     echo "Updating pip..."
     python3 -m pip install --upgrade pip
     echo "Installing Python packages..."
-    pip install xarray[complete] torch-harmonics tensorly tensorly-torch wandb torchvision timm jupyter
+    pip install xarray[complete] torch-harmonics tensorly tensorly-torch wandb torchvision timm jupyter gcsfs
     pip install --no-build-isolation https://github.com/NVlabs/earth2grid/archive/main.tar.gz
 
