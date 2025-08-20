@@ -26,6 +26,8 @@ ds = xr.Dataset(
 print(ds)
 ############################################
 # Convert lat-lon grid to HEALPix grid (again at level 6 for demonstration)
+level = 6
+nside = 2 ** level
 llgrid = latlon.LatLonGrid(lat=lat, lon=lon)
 hpxgrid = healpix.Grid(level=6)
 
@@ -37,9 +39,15 @@ field_ll = ds["field"].values
 field_tensor = torch.from_numpy(field_ll)
 field_regridded_hpx = regridder(field_tensor)
 
+field_regridded_hpx_ = field_regridded_hpx.reshape(12, nside, nside)
+field_regridded_hpx__ = field_regridded_hpx_.flatten()
+
 # Show the regridded data in HEALPix grid
 print(field_regridded_hpx.shape)
-
+print(field_regridded_hpx_.shape)
+print(field_regridded_hpx__.shape)
+print(field_regridded_hpx == field_regridded_hpx__)
+print(field_regridded_hpx[:10], field_regridded_hpx__[:10])
 ######################################
 # Create a HEALPix grid (level 6 for demonstration)
 hpxgrid = healpix.Grid(level=6)
