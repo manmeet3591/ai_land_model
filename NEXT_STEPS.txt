@@ -1,0 +1,76 @@
+NACHIKETA'S COMMENTS - REVISION COMPLETION CHECKLIST
+=====================================================
+
+ALL TEXT REVISIONS: COMPLETE ✓
+================================
+
+✓ 1. Title simplified (removed 3D UNet, HEALPix)
+✓ 2. Abstract enhanced (emphasized "first AI land model")
+✓ 3. Initial conditions clarified (Section 3.1)
+✓ 4. Training details table added (Table 2)
+✓ 5. ERA5 soil moisture naming explained (Table 1 caption)
+✓ 6. Region definitions added (lat/lon boxes in Section 3.2)
+✓ 7. RMSE discussion enhanced (Texas drought analysis)
+✓ 8. Ocean pixel exclusion stated (throughout)
+✓ 9. Offline model paradigm explained (Discussion section)
+✓ 10. Autoregressive rollout detailed (Section 2.3.3)
+✓ 11. Figure captions updated (removed "global")
+✓ 12. Pioneering status emphasized (Introduction + Contributions)
+✓ 13. Modularity central to narrative (abstract, intro, discussion)
+
+FIGURE REGENERATION: IN PROGRESS
+===================================
+
+Running (started 22:12 GMT):
+- python3 fig_acc_lead.py       [COMPLETED ✓ at 22:12]
+- python3 fig_rmse_lead.py      [IN PROGRESS - large data loads]
+- python3 fig_multi_init.py     [IN PROGRESS - large data loads]
+
+Updated color palette (colorblind-friendly):
+- Blue:   #0173b2 (2019 Mississippi)
+- Green:  #029e73 (2012 Drought)
+- Orange: #de8f05 (2021 Heat Dome)
+- Purple: #cc78bc (2011 Texas)
+
+FINAL STEPS WHEN FIGURES COMPLETE:
+==================================
+
+1. Wait for scripts to finish (check every 3-5 minutes)
+   Location: /media/airlab/ROCSTOR/ai_land_model/paper/figures/
+
+2. Verify figure timestamps:
+   stat fig_acc.pdf fig_rmse.pdf fig_multi_init.pdf
+
+3. Recompile final PDF:
+   cd /media/airlab/ROCSTOR/ai_land_model/paper/
+   pdflatex main.tex
+   bibtex main
+   pdflatex main.tex
+   pdflatex main.tex
+
+4. Check final PDF:
+   ls -lh main.pdf
+
+5. ARXIV READY at: /media/airlab/ROCSTOR/ai_land_model/paper/main.pdf
+
+SUMMARY FOR SUBMISSION:
+======================
+- Addresses all of Nachiketa's 13 major comments
+- Emphasizes pioneering nature (FIRST AI land model)
+- Explains offline paradigm thoroughly
+- Adds all missing technical details
+- Removes jargon for Nature readiness
+- Colorblind-friendly figures
+- Modularity as core message
+
+TARGET JOURNALS:
+1. arXiv (immediate)
+2. Nature Scientific Reports (after arXiv settles)
+3. Nature Machine Intelligence (if needed)
+
+DOCUMENTATION CREATED:
+- REVISION_SUMMARY.md (initial tracking)
+- COMPLETE_REVISION_NOTES.md (detailed changelog)
+- NEXT_STEPS.txt (this file)
+
+Questions? Check COMPLETE_REVISION_NOTES.md for exact quotes and explanations.
