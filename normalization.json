@@ -1,0 +1,70 @@
+{
+  "2m_temperature": {
+    "min": 188.02320861816406,
+    "max": 326.905517578125
+  },
+  "total_precipitation": {
+    "min": -3.725290298461914e-09,
+    "max": 0.10059547424316406
+  },
+  "10m_u_component_of_wind": {
+    "min": -281.12353515625,
+    "max": 132.54061889648438
+  },
+  "10m_v_component_of_wind": {
+    "min": -159.21847534179688,
+    "max": 166.60025024414062
+  },
+  "surface_solar_radiation_downwards": {
+    "min": -6.0,
+    "max": 4890880.0
+  },
+  "evaporation": {
+    "min": -0.0028332690708339214,
+    "max": 0.0007333403918892145
+  },
+  "skin_temperature": {
+    "min": 185.77236938476562,
+    "max": 347.6108093261719
+  },
+  "snowfall": {
+    "min": -4.656612873077393e-10,
+    "max": 0.01572561264038086
+  },
+  "mean_sea_level_pressure": {
+    "min": 89991.0625,
+    "max": 109923.4375
+  },
+  "volumetric_soil_water_layer_1": {
+    "min": -0.03136801719665527,
+    "max": 0.790030837059021
+  },
+  "volumetric_soil_water_layer_2": {
+    "min": -0.020388305187225342,
+    "max": 0.78839111328125
+  },
+  "volumetric_soil_water_layer_3": {
+    "min": -0.022721707820892334,
+    "max": 0.7837305068969727
+  },
+  "volumetric_soil_water_layer_4": {
+    "min": -2.9802322387695312e-08,
+    "max": 0.7660064697265625
+  },
+  "soil_temperature_level_1": {
+    "min": 196.46380615234375,
+    "max": 340.4848327636719
+  },
+  "soil_temperature_level_2": {
+    "min": 200.74496459960938,
+    "max": 322.4053955078125
+  },
+  "soil_temperature_level_3": {
+    "min": 197.9642333984375,
+    "max": 317.30145263671875
+  },
+  "soil_temperature_level_4": {
+    "min": 180.60952758789062,
+    "max": 315.42120361328125
+  }
+}
