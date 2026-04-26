@@ -1,0 +1,248 @@
+\begin{thebibliography}{31}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bauer et~al.(2015)Bauer, Thorpe, and Brunet]{bauer2015quietrev}
+P.~Bauer, A.~Thorpe, and G.~Brunet.
+\newblock The quiet revolution of numerical weather prediction.
+\newblock \emph{Nature}, 525\penalty0 (7567):\penalty0 47--55, 2015.
+
+\bibitem[Best et~al.(2011)Best, Pryor, Clark, Rooney, Essery, M{\'e}nard,
+  Edwards, Hendry, Porson, Gedney, et~al.]{best2011jules}
+M.~J. Best, M.~Pryor, D.~B. Clark, G.~G. Rooney, R.~L. Essery, C.~B.
+  M{\'e}nard, J.~Edwards, M.~Hendry, A.~Porson, N.~Gedney, et~al.
+\newblock The joint {UK} land environment simulator ({JULES}), model
+  description -- part 1: Energy and water fluxes.
+\newblock \emph{Geoscientific Model Development}, 4\penalty0 (3):\penalty0
+  677--699, 2011.
+
+\bibitem[Bi et~al.(2023)Bi, Xie, Zhang, Chen, Gu, and Tian]{bi2023pangu}
+K.~Bi, L.~Xie, H.~Zhang, X.~Chen, X.~Gu, and Q.~Tian.
+\newblock Accurate medium-range global weather forecasting with 3{D}
+  transformers.
+\newblock \emph{Nature}, 619:\penalty0 533--538, 2023.
+
+\bibitem[Bodnar et~al.(2024)Bodnar, Bruinsma, Lucber, Stanley, Brandstetter,
+  Garvan, Riechert, Weyn, Dong, Vaughan, et~al.]{bodnar2024aurora}
+C.~Bodnar, W.~P. Bruinsma, A.~Lucber, M.~Stanley, J.~Brandstetter, P.~Garvan,
+  M.~Riechert, J.~Weyn, H.~Dong, A.~Vaughan, et~al.
+\newblock Aurora: A foundation model of the atmosphere.
+\newblock \emph{arXiv preprint arXiv:2405.13063}, 2024.
+
+\bibitem[Bonev et~al.(2023)Bonev, Kurth, Hundt, Pathak, Balu, Kashinath, and
+  Anandkumar]{bonev2023sfno}
+B.~Bonev, T.~Kurth, C.~Hundt, J.~Pathak, M.~Balu, K.~Kashinath, and
+  A.~Anandkumar.
+\newblock Spherical {F}ourier neural operators: Learning stable dynamics on the
+  sphere.
+\newblock \emph{Proceedings of the 40th International Conference on Machine
+  Learning}, 2023.
+
+\bibitem[Caillon et~al.(2024)Caillon, Ceresetti, Groueix, and
+  Mahfouf]{caillon2024ola}
+A.~Caillon, D.~Ceresetti, T.~Groueix, and J.-F. Mahfouf.
+\newblock Coupled ocean-atmosphere dynamics in a machine learning earth system
+  model.
+\newblock \emph{arXiv preprint arXiv:2406.08632}, 2024.
+
+\bibitem[Carver and Merose(2023)]{carver2023arcoera5}
+R.~W. Carver and A.~Merose.
+\newblock {ARCO-ERA5}: An analysis-ready cloud-optimized reanalysis dataset.
+\newblock \emph{arXiv preprint arXiv:2301.02032}, 2023.
+
+\bibitem[Chen et~al.(2023)Chen, Zhong, Zhang, Cheng, Xu, Qi, and
+  Li]{chen2023fuxi}
+L.~Chen, X.~Zhong, F.~Zhang, Y.~Cheng, Y.~Xu, Y.~Qi, and H.~Li.
+\newblock Fu{X}i: A cascade machine learning forecasting system for 15-day
+  global weather forecast.
+\newblock \emph{npj Climate and Atmospheric Science}, 6:\penalty0 190, 2023.
+
+\bibitem[Chen et~al.(2024)Chen, Du, Hu, Wang, and Wang]{chen2024fuxis2s}
+L.~Chen, F.~Du, Y.~Hu, Z.~Wang, and F.~Wang.
+\newblock Fu{X}i-{S2S}: A machine learning model that outperforms conventional
+  global subseasonal forecast models.
+\newblock \emph{arXiv preprint arXiv:2312.09926}, 2024.
+
+\bibitem[Dirmeyer(2011)]{dirmeyer2011landatm}
+P.~A. Dirmeyer.
+\newblock The terrestrial segment of soil moisture--climate coupling.
+\newblock \emph{Geophysical Research Letters}, 38\penalty0 (16), 2011.
+
+\bibitem[Ek et~al.(2003)Ek, Mitchell, Lin, Rogers, Grunmann, Koren, Gayno, and
+  Tarpley]{ek2003noah}
+M.~B. Ek, K.~E. Mitchell, Y.~Lin, E.~Rogers, P.~Grunmann, V.~Koren, G.~Gayno,
+  and J.~D. Tarpley.
+\newblock Implementation of {N}oah land surface model advances in the
+  {N}ational {C}enters for {E}nvironmental {P}rediction operational mesoscale
+  {E}ta model.
+\newblock \emph{Journal of Geophysical Research: Atmospheres}, 108\penalty0
+  (D22), 2003.
+
+\bibitem[G{\'o}rski et~al.(2005)G{\'o}rski, Hivon, Banday, Wandelt, Hansen,
+  Reinecke, and Bartelmann]{gorski2005healpix}
+K.~M. G{\'o}rski, E.~Hivon, A.~Banday, B.~D. Wandelt, F.~K. Hansen,
+  M.~Reinecke, and M.~Bartelmann.
+\newblock {HEAL}pix: A framework for high-resolution discretization and fast
+  analysis of data distributed on the sphere.
+\newblock \emph{The Astrophysical Journal}, 622\penalty0 (2):\penalty0 759,
+  2005.
+
+\bibitem[Hersbach et~al.(2020)Hersbach, Bell, Berrisford, Hirahara,
+  Hor{\'a}nyi, Mu{\~n}oz-Sabater, Nicolas, Peubey, Radu, Schepers,
+  et~al.]{hersbach2020era5}
+H.~Hersbach, B.~Bell, P.~Berrisford, S.~Hirahara, A.~Hor{\'a}nyi,
+  J.~Mu{\~n}oz-Sabater, J.~Nicolas, C.~Peubey, R.~Radu, D.~Schepers, et~al.
+\newblock The {ERA5} global reanalysis.
+\newblock \emph{Quarterly Journal of the Royal Meteorological Society},
+  146\penalty0 (730):\penalty0 1999--2049, 2020.
+
+\bibitem[Hoerling et~al.(2014)Hoerling, Eischeid, Kumar, Leung, Mariotti, Mo,
+  Schubert, and Seager]{hoerling2014drought2012}
+M.~Hoerling, J.~Eischeid, A.~Kumar, R.~Leung, A.~Mariotti, K.~Mo, S.~Schubert,
+  and R.~Seager.
+\newblock Causes and predictability of the 2012 {G}reat {P}lains drought.
+\newblock \emph{Bulletin of the American Meteorological Society}, 95\penalty0
+  (2):\penalty0 269--282, 2014.
+
+\bibitem[Karlbauer et~al.(2024)Karlbauer, Praditia, Ott, Oladyshkin, Nowak, and
+  Butz]{karlbauer2024healpix}
+M.~Karlbauer, T.~Praditia, J.~Ott, S.~Oladyshkin, W.~Nowak, and M.~V. Butz.
+\newblock Advancing data-driven weather forecasting: Time-stepped healpix
+  transformer for medium-range prediction.
+\newblock \emph{arXiv preprint arXiv:2409.13915}, 2024.
+
+\bibitem[Kochkov et~al.(2024)Kochkov, Yuval, Langmore, Norgaard, Smith, Mooers,
+  Klower, Lottes, Rasp, Duben, et~al.]{kochkov2024neuralGCM}
+D.~Kochkov, J.~Yuval, I.~Langmore, P.~Norgaard, J.~Smith, G.~Mooers, M.~Klower,
+  J.~Lottes, S.~Rasp, P.~Duben, et~al.
+\newblock Neural general circulation models for weather and climate.
+\newblock \emph{Nature}, 632:\penalty0 1060--1066, 2024.
+
+\bibitem[Koster et~al.(2004)Koster, Dirmeyer, Guo, Bonan, Chan, Cox, Gordon,
+  Kanae, Kowalczyk, Lawrence, et~al.]{koster2004glace}
+R.~D. Koster, P.~A. Dirmeyer, Z.~Guo, G.~Bonan, E.~Chan, P.~Cox, C.~Gordon,
+  S.~Kanae, E.~Kowalczyk, D.~Lawrence, et~al.
+\newblock Regions of strong coupling between soil moisture and precipitation.
+\newblock \emph{Science}, 305\penalty0 (5687):\penalty0 1138--1140, 2004.
+
+\bibitem[Lam et~al.(2023)Lam, Sanchez-Gonzalez, Willson, Wirber, Fortunato,
+  Alet, Ravuri, Ewalds, Eaton-Rosen, Hu, et~al.]{lam2023graphcast}
+R.~Lam, A.~Sanchez-Gonzalez, M.~Willson, P.~Wirber, M.~Fortunato, F.~Alet,
+  S.~Ravuri, T.~Ewalds, Z.~Eaton-Rosen, W.~Hu, et~al.
+\newblock Learning skillful medium-range global weather forecasting.
+\newblock \emph{Science}, 382\penalty0 (6677):\penalty0 1416--1421, 2023.
+
+\bibitem[Lawrence et~al.(2019)Lawrence, Fisher, Koven, Oleson, Swenson, Bonan,
+  et~al.]{lawrence2019clm5}
+D.~M. Lawrence, R.~A. Fisher, C.~D. Koven, K.~W. Oleson, S.~C. Swenson,
+  G.~Bonan, et~al.
+\newblock The {C}ommunity {L}and {M}odel version 5: Description of new
+  features, benchmarking, and impact of forcing uncertainty.
+\newblock \emph{Journal of Advances in Modeling Earth Systems}, 11\penalty0
+  (12):\penalty0 4245--4287, 2019.
+
+\bibitem[Merryfield et~al.(2020)Merryfield, Baehr, Batt{\'e}, Becker, Butler,
+  Coelho, Danabasoglu, Dirmeyer, Doblas-Reyes, Domeisen,
+  et~al.]{merryfield2020s2s}
+W.~J. Merryfield, J.~Baehr, L.~Batt{\'e}, E.~J. Becker, A.~H. Butler, C.~A.
+  Coelho, G.~Danabasoglu, P.~A. Dirmeyer, F.~J. Doblas-Reyes, D.~I. Domeisen,
+  et~al.
+\newblock Current and emerging developments in subseasonal to decadal
+  prediction.
+\newblock \emph{Bulletin of the American Meteorological Society}, 101\penalty0
+  (6):\penalty0 E869--E896, 2020.
+
+\bibitem[Niu et~al.(2011)Niu, Yang, Mitchell, Chen, Ek, Barlage, Kumar,
+  Manning, Niyogi, Rosero, et~al.]{niu2011noahmp}
+G.-Y. Niu, Z.-L. Yang, K.~E. Mitchell, F.~Chen, M.~B. Ek, M.~Barlage, A.~Kumar,
+  K.~Manning, D.~Niyogi, E.~Rosero, et~al.
+\newblock The community {N}oah land surface model with multiparameterization
+  options ({N}oah-{MP}): 1. {M}odel description and evaluation with local-scale
+  measurements.
+\newblock \emph{Journal of Geophysical Research: Atmospheres}, 116\penalty0
+  (D12), 2011.
+
+\bibitem[{NVIDIA Corporation}(2024)]{earth2grid2024}
+{NVIDIA Corporation}.
+\newblock earth2grid: Grid transformation library for {E}arth system modeling.
+\newblock \url{https://github.com/NVIDIA/earth2grid}, 2024.
+
+\bibitem[Pathak et~al.(2022)Pathak, Subramanian, Harrington, Raja,
+  Chattopadhyay, Mardani, Kurth, Hall, Li, Azizzadenesheli,
+  et~al.]{pathak2022fourcastnet}
+J.~Pathak, S.~Subramanian, P.~Harrington, S.~Raja, A.~Chattopadhyay,
+  M.~Mardani, T.~Kurth, D.~Hall, Z.~Li, K.~Azizzadenesheli, et~al.
+\newblock Four{C}ast{N}et: A global data-driven high-resolution weather
+  forecasting model.
+\newblock In \emph{Proceedings of the Platform for Advanced Scientific
+  Computing Conference}, 2022.
+
+\bibitem[Philip et~al.(2022)Philip, Kew, van Oldenborgh, Anslow, Seneviratne,
+  Vautard, Coumou, Ebi, Arrighi, Singh, et~al.]{philip2022pnw}
+S.~Y. Philip, S.~F. Kew, G.~J. van Oldenborgh, F.~S. Anslow, S.~I. Seneviratne,
+  R.~Vautard, D.~Coumou, K.~L. Ebi, J.~Arrighi, R.~Singh, et~al.
+\newblock Rapid attribution analysis of the extraordinary heat wave on the
+  {P}acific coast of the {US} and {C}anada in {J}une 2021.
+\newblock \emph{Earth System Dynamics}, 13\penalty0 (4):\penalty0 1689--1713,
+  2022.
+
+\bibitem[Rasp et~al.(2024)Rasp, Hoyer, Merose, Langmore, Battaglia, Russell,
+  Sanchez-Gonzalez, Yang, Carver, Agrawal, et~al.]{rasp2024weatherbench2}
+S.~Rasp, S.~Hoyer, A.~Merose, I.~Langmore, P.~Battaglia, T.~Russell,
+  A.~Sanchez-Gonzalez, V.~Yang, R.~Carver, S.~Agrawal, et~al.
+\newblock Weather{B}ench 2: A benchmark for the next generation of data-driven
+  global weather models.
+\newblock \emph{Journal of Advances in Modeling Earth Systems}, 16\penalty0
+  (6):\penalty0 e2023MS004019, 2024.
+
+\bibitem[Ronneberger et~al.(2015)Ronneberger, Fischer, and
+  Brox]{ronneberger2015unet}
+O.~Ronneberger, P.~Fischer, and T.~Brox.
+\newblock U-{N}et: Convolutional networks for biomedical image segmentation.
+\newblock In \emph{Medical Image Computing and Computer-Assisted Intervention},
+  pages 234--241. Springer, 2015.
+
+\bibitem[Seneviratne et~al.(2010)Seneviratne, Corti, Davin, Hirschi, Jaeger,
+  Lehner, Orlowsky, and Teuling]{seneviratne2010landclimate}
+S.~I. Seneviratne, T.~Corti, E.~L. Davin, M.~Hirschi, E.~B. Jaeger, I.~Lehner,
+  B.~Orlowsky, and A.~J. Teuling.
+\newblock Investigating soil moisture--climate interactions in a changing
+  climate: A review.
+\newblock \emph{Earth-Science Reviews}, 99\penalty0 (3--4):\penalty0 125--161,
+  2010.
+
+\bibitem[Singh et~al.(2023)Singh, Krishnan, Goswami, Choudhury, Swapna,
+  Vellore, Prajeesh, Sandeep, Jayanarayanan, and Mohapatra]{singh2023hybrid}
+M.~Singh, R.~Krishnan, B.~Goswami, A.~D. Choudhury, P.~Swapna, R.~Vellore,
+  A.~G. Prajeesh, N.~Sandeep, S.~Jayanarayanan, and M.~Mohapatra.
+\newblock Hybrid deep learning model for precipitation prediction in {G}lobal
+  {C}limate {M}odels.
+\newblock \emph{NeurIPS 2022 Workshop on Tackling Climate Change with Machine
+  Learning}, 2023.
+
+\bibitem[Vitart et~al.(2017)Vitart, Ardilouze, Bonet, Brookshaw, Chen,
+  Codorean, D{\'e}qu{\'e}, Ferranti, Fucile, Fuentes, et~al.]{vitart2017s2s}
+F.~Vitart, C.~Ardilouze, A.~Bonet, A.~Brookshaw, M.~Chen, C.~Codorean,
+  M.~D{\'e}qu{\'e}, L.~Ferranti, E.~Fucile, M.~Fuentes, et~al.
+\newblock The subseasonal to seasonal ({S2S}) prediction project database.
+\newblock \emph{Bulletin of the American Meteorological Society}, 98\penalty0
+  (1):\penalty0 163--173, 2017.
+
+\bibitem[Weyn et~al.(2019)Weyn, Durran, and Caruana]{weyn2019dlwp}
+J.~A. Weyn, D.~R. Durran, and R.~Caruana.
+\newblock Can machines learn to predict weather? {U}sing deep learning to
+  predict gridded 500-h{P}a geopotential height from historical weather data.
+\newblock \emph{Journal of Advances in Modeling Earth Systems}, 11\penalty0
+  (8):\penalty0 2680--2693, 2019.
+
+\bibitem[Weyn et~al.(2020)Weyn, Durran, and Caruana]{weyn2020dlwpcs}
+J.~A. Weyn, D.~R. Durran, and R.~Caruana.
+\newblock Improving data-driven global weather prediction using deep
+  convolutional neural networks on a cubed sphere.
+\newblock \emph{Journal of Advances in Modeling Earth Systems}, 12\penalty0
+  (9):\penalty0 e2020MS002109, 2020.
+
+\end{thebibliography}
